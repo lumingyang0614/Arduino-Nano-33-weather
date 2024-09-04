@@ -6,9 +6,6 @@ This tutorial is called "How to forecast weather with Arduino Nano 33 ?" availab
 
 You can find below the pipeline to develope a TinyML project :
 
-![Pipeline](https://github.com/BaptisteZloch/MakeIT-How-to-forecast-weather-with-Arduino-Nano-33/blob/main/Pipeline.png?raw=true)
-
-
 ## [Python part](https://github.com/BaptisteZloch/MakeIT-How-to-forecast-weather-with-Arduino-Nano-33/tree/main/Python%20model)
 
 This has been designed using Tensorflow and Keras with several layers. This network has been trained on [Istanbul weather dataset](https://www.kaggle.com/vonline9/weather-istanbul-data-20092019).
